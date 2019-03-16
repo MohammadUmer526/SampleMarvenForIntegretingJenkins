@@ -6,6 +6,6 @@ execution:
 scenarios:
   sample:
     timeout: 500ms
-    keepalive: true
+    keepalive: false
     requests:
     - http://blazedemo.com/
